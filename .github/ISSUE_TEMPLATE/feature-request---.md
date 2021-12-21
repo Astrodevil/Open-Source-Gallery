@@ -1,6 +1,6 @@
 ---
-name: "Feature request \U0001F331"
-about: "Suggest an idea for this project \U0001F525"
+name: "Resource request \U0001F331"
+about: "Suggest an idea for this resource gallery \U0001F525"
 title: "Enhancing This Gallery \U0001F389"
 labels: good first issue
 assignees: ''
