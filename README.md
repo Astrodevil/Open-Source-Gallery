@@ -1,10 +1,16 @@
-In making 
+Loading...
+<p align="center">
+ <a href="https://astrodevil.github.io/Open-Source-Gallery/">
+    <img alt="open-source-gallery" src="https://images.unsplash.com/photo-1547555999-14e818e09e33?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb" width="125" />
+  </a>
+ </p>
+<h1 align="center">Open-Source-Gallery📚</h1>
 
-# Open-Source-Gallery
-All contents related to Open-Source.
+**[All contents related to Open-Source.](https://astrodevil.github.io/Open-Source-Gallery/)**
 
+## Contributing Guidelines📝
 <details>
-<summary>Contributing Guidelines📝</summary> 
+<summary>Click to view👀</summary> 
 
 Thank you for your interest to make this resource useful! Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to add.
 
@@ -83,23 +89,40 @@ git push -u origin <your_branch_name>
   
 </details>
 
+
+
+## My Stars⭐
+- [🧑‍💻 Learning Resources](https://github.com/stars/Astrodevil/lists/learning-resources)
+- [🎉 Useful](https://github.com/stars/Astrodevil/lists/useful)
+- [🔮 Future Ideas](https://github.com/stars/Astrodevil/lists/future-ideas)
+- [✨ Inspiration](https://github.com/stars/Astrodevil/lists/inspiration)
+- [🤖 Cool Actions](https://github.com/stars/Astrodevil/lists/cool-actions)
+
+  
 ## This Will Help🌩️
 
 - *Why clone everything to the machine? Just press "." (dot) after opening the forked repo in a browser tab. See the Magic!🎉*
 - *Want to preview your live changes? Copy and paste the project.html URL into [GitHack](https://raw.githack.com/). You will get 2 URLs for production and development, copy and paste them into a new tab. See the Magic!🎉*
   
-## Project Admin🕵🏼‍♂
+
+## License🛡️
+This project is licensed under the MIT License - see the [`LICENSE`](LICENSE) file for details.
+
+  ## Project Admin🕵🏼‍♂
 
 <table>
 <tbody><tr>
 <td align="center"><a href="https://github.com/Astrodevil"><img alt="" src="https://avatars.githubusercontent.com/u/73425223?v=4" width="130px;"><br><sub><b> Mr. Ånand </b></sub></a><br><a href="https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/commits?author=Astrodevil" title="Code">🌝💻 </a></td> </a></td>
 </table>
+  
+## Support☕
+This project has a purpose to help newbies to get into open-source. Don't forget to leave a star ⭐️
 
+If you found this helpful, consider supporting me by buying me a coffee.
 
-[# Our valuable Contributors👩‍💻👨‍💻 :
-<a href="https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=ZeroOctave/ZeroOctave-JavaScript-Projects" />
-</a>]: #
+<a href="https://www.buymeacoffee.com/Astrodevil">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50px">
+</a>
 
 
 
