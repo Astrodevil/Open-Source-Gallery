@@ -1,10 +1,11 @@
-Loading...
+
+<h1 align="center">Open-Source-Gallery📚</h1>
 <p align="center">
  <a href="https://astrodevil.github.io/Open-Source-Gallery/">
-    <img alt="open-source-gallery" src="https://images.unsplash.com/photo-1547555999-14e818e09e33?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb" width="125" />
+    <img alt="open-source-gallery" src="./src/open.png" />
   </a>
  </p>
-<h1 align="center">Open-Source-Gallery📚</h1>
+
 
 **[All contents related to Open-Source.](https://astrodevil.github.io/Open-Source-Gallery/)**
 
