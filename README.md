@@ -9,6 +9,31 @@
 
 **[All contents related to Open-Source.](https://astrodevil.github.io/Open-Source-Gallery/)**
 
+<div align="center">
+   
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-orange.svg) 
+![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red)
+![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+![Begginers Friendly](https://img.shields.io/badge/Begginer%20Friendly%20-Yes-orange)
+[![GitHub issues](https://img.shields.io/github/issues/Astrodevil/Open-Source-Gallery)](https://github.com/Astrodevil/Open-Source-Gallery)
+[![GitHub forks](https://img.shields.io/github/forks/Astrodevil/Open-Source-Gallery)](https://github.com/Astrodevil/Open-Source-Gallery)
+[![GitHub stars](https://img.shields.io/github/stars/Astrodevil/Open-Source-Gallery)](https://github.com/Astrodevil/Open-Source-Gallery)
+
+</div>
+
+# About❓
+Wants to start open-source? Are you a beginner? Don't know how, where, why to start?
+
+You are welcome! You are in right place.😊
+
+Open-Source-Gallery provides you with all the resources needed to become a good open-source contributor, project maintainer & developer.
+
+The motive🎯 of this project is to help new learners like you to get familiar with the world of open-source.
+
+Happy learning.👍
+
+**So, What are you waiting for? [Start here](https://astrodevil.github.io/Open-Source-Gallery/)**
+
 ## Contributing Guidelines📝
 <details>
 <summary>Click to view👀</summary> 
