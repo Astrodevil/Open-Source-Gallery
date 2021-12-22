@@ -124,6 +124,12 @@ git push -u origin <your_branch_name>
 - [✨ Inspiration](https://github.com/stars/Astrodevil/lists/inspiration)
 - [🤖 Cool Actions](https://github.com/stars/Astrodevil/lists/cool-actions)
 
+## More Resource Gallery📚
+<details>
+<summary>🌐 Web Dev Resources</summary>
+
+  - [Link 1](https://abyssinian-marquis-9a5.notion.site/Web-dev-resources-public-3c83830cc5024da0807d4c5d43e3dba9)
+</details>
   
 ## This Will Help🌩️
 
