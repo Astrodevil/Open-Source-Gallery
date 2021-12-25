@@ -134,6 +134,11 @@ git push -u origin <your_branch_name>
   - [Link 1](https://pear-coelurus-712.notion.site/Open-Source-Gallery-719c3ef45c3b449d8a4dec2260b3cd71)
 </details>
  
+<details> 
+<summary>☕ Programmers Must Know</summary>
+
+  - [Link 1](https://github.com/mtdvio/every-programmer-should-know#readme)
+</details>
  
 ## My Stars⭐
 - [🧑‍💻 Learning Resources](https://github.com/stars/Astrodevil/lists/learning-resources)
