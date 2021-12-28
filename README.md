@@ -140,6 +140,12 @@ git push -u origin <your_branch_name>
   - [Link 1](https://github.com/mtdvio/every-programmer-should-know#readme)
 </details>
  
+<details> 
+<summary>🐍 Python</summary>
+
+  - [Link 1](https://www.reddit.com/r/learnpython/wiki/index/)
+</details>
+ 
 ## My Stars⭐
 - [🧑‍💻 Learning Resources](https://github.com/stars/Astrodevil/lists/learning-resources)
 - [🎉 Useful](https://github.com/stars/Astrodevil/lists/useful)
