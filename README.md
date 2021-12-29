@@ -129,7 +129,7 @@ git push -u origin <your_branch_name>
   - [Link 1](https://github.com/dair-ai/ML-YouTube-Courses)
 </details>
 <details> 
-<summary>📚 Open Source</summary>
+<summary>📚 Open Source (Updating New Contents)</summary>
 
   - [Link 1](https://pear-coelurus-712.notion.site/Open-Source-Gallery-719c3ef45c3b449d8a4dec2260b3cd71)
 </details>
