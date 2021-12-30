@@ -145,6 +145,12 @@ git push -u origin <your_branch_name>
 
   - [Link 1](https://www.reddit.com/r/learnpython/wiki/index/)
 </details>
+
+<details> 
+<summary>🔥 Web3/Blockchain</summary>
+
+  - [Link 1](https://github.com/web3community/blockchain-dev-path)
+</details>
  
 ## My Stars⭐
 - [🧑‍💻 Learning Resources](https://github.com/stars/Astrodevil/lists/learning-resources)
