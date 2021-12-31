@@ -19,6 +19,8 @@
 [![GitHub forks](https://img.shields.io/github/forks/Astrodevil/Open-Source-Gallery)](https://github.com/Astrodevil/Open-Source-Gallery)
 [![GitHub stars](https://img.shields.io/github/stars/Astrodevil/Open-Source-Gallery)](https://github.com/Astrodevil/Open-Source-Gallery)
 
+ <a href="https://www.producthunt.com/posts/open-source-gallery?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-open-source-gallery" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=325005&theme=light" alt="Open Source Gallery - All contents related to Open-Source. | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+ 
 </div>
 
 ## About❓
@@ -189,4 +191,4 @@ If you found this helpful, consider supporting me by buying me a coffee.
 
 ### Best of luck for your open-source journey👍😊
  
-<a href="https://www.producthunt.com/posts/open-source-gallery?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-open-source-gallery" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=325005&theme=light" alt="Open Source Gallery - All contents related to Open-Source. | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+<a href="https://www.producthunt.com/posts/open-source-gallery?utm_source=badge-review&utm_medium=badge&utm_souce=badge-open-source-gallery#discussion-body" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/review.svg?post_id=325005&theme=light" alt="Open Source Gallery - All contents related to Open-Source. | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
