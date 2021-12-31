@@ -152,6 +152,7 @@ git push -u origin <your_branch_name>
 <summary>🔥 Web3/Blockchain</summary>
 
   - [Link 1](https://github.com/web3community/blockchain-dev-path)
+  - [Link 2](https://web3.hashnode.com/)
 </details>
  
 ## My Stars⭐
