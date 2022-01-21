@@ -122,8 +122,10 @@ git push -u origin <your_branch_name>
 <details>
 <summary>🌐 Web Development</summary>
 
-  - [Link 1](https://abyssinian-marquis-9a5.notion.site/Web-dev-resources-public-3c83830cc5024da0807d4c5d43e3dba9)
-  - [Link 2](https://markodenic.com/free-web-development-resources/)
+  - [Link 1](https://mdjunaidap.notion.site/mdjunaidap/Clear-Cut-Full-Stack-Developer-Roadmap-2021-300-Resources-8b832a1548d04bcba345c38d3e59a5c9)
+  - [Link 2](https://abyssinian-marquis-9a5.notion.site/Web-dev-resources-public-3c83830cc5024da0807d4c5d43e3dba9)
+  - [Link 3](https://markodenic.com/free-web-development-resources/)
+ 
 </details>
 <details> 
 <summary>🤖 Machine Learning</summary>
