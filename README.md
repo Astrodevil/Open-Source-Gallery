@@ -169,6 +169,8 @@ git push -u origin <your_branch_name>
 
   - [Link 1](https://github.com/web3community/blockchain-dev-path)
   - [Link 2](https://web3.hashnode.com/)
+  - [Link 3](https://www.instagram.com/p/CYRnNbJvVv9/?utm_source=ig_web_copy_link)
+  - [Link 4](https://www.instagram.com/p/CYWuhFrPH-e/?utm_source=ig_web_copy_link)
 </details>
  
 ## My Stars⭐
