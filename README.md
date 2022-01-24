@@ -121,9 +121,12 @@ git push -u origin <your_branch_name>
 ## More Resource Gallery📚
 <details>
 <summary>🗒️ Cheat Sheets</summary>
-
-  - [Linux](https://github.com/Astrodevil/Open-Source-Gallery/blob/main/src/linux.png)
+  
+  - [Git](https://github.com/Astrodevil/Open-Source-Gallery/blob/main/src/git-cheat-sheet-education.pdf)
   - [JavaScript](https://github.com/Astrodevil/Open-Source-Gallery/blob/main/src/javascript.png)
+  - [Linux](https://github.com/Astrodevil/Open-Source-Gallery/blob/main/src/linux.png)
+  
+  
  
 </details>
 <details>
