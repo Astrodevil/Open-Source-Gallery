@@ -120,6 +120,13 @@ git push -u origin <your_branch_name>
  
 ## More Resource Gallery📚
 <details>
+<summary>🗒️ Cheat Sheets</summary>
+
+  - [Linux](https://github.com/Astrodevil/Open-Source-Gallery/blob/main/src/linux.png)
+  - [JavaScript](https://github.com/Astrodevil/Open-Source-Gallery/blob/main/src/javascript.png)
+ 
+</details>
+<details>
 <summary>🌐 Web Development</summary>
 
   - [Link 1](https://mdjunaidap.notion.site/mdjunaidap/Clear-Cut-Full-Stack-Developer-Roadmap-2021-300-Resources-8b832a1548d04bcba345c38d3e59a5c9)
