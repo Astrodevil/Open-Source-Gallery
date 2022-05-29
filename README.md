@@ -144,8 +144,9 @@ git push -u origin <your_branch_name>
 </details>
 <details> 
 <summary>🤖 Machine Learning</summary>
-
-  - [Link 1](https://github.com/dair-ai/ML-YouTube-Courses)
+  
+  - [Link 1](https://github.com/d0r1h/ML-University#readme)
+  - [Link 2](https://github.com/dair-ai/ML-YouTube-Courses)
 </details>
 <details> 
 <summary>📚 Open Source (Updating New Contents)</summary>
