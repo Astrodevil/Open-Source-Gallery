@@ -132,6 +132,11 @@ git push -u origin <your_branch_name>
 
   - [Link 1](https://roadmap.sh/)
 </details>
+ <details> 
+<summary>📸 Design Resources</summary>
+
+  - [Awesome Stock](https://github.com/neutraltone/awesome-stock-resources#readme)
+</details>
  
 <details>
 <summary>🌐 Web Development</summary>
