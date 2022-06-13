@@ -7,7 +7,7 @@
  </p>
 
 
-**[All contents related to Open-Source.](https://pear-coelurus-712.notion.site/Open-Source-Gallery-719c3ef45c3b449d8a4dec2260b3cd71)**
+**[All contents related to Open-Source.](https://astrodevil.github.io/Open-Source-Gallery/)**
 
 <div align="center">
    
@@ -34,7 +34,7 @@ The motive🎯 of this project is to help new learners like you to get familiar 
 
 Happy learning.👍
 
-**So, What are you waiting for? [Start here](https://pear-coelurus-712.notion.site/Open-Source-Gallery-719c3ef45c3b449d8a4dec2260b3cd71)**
+**So, What are you waiting for? [Start here](https://astrodevil.github.io/Open-Source-Gallery/)**
 
 ## Contributing Guidelines📝
 <details>
