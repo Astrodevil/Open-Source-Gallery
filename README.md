@@ -153,11 +153,6 @@ git push -u origin <your_branch_name>
   - [Link 1](https://github.com/d0r1h/ML-University#readme)
   - [Link 2](https://github.com/dair-ai/ML-YouTube-Courses)
 </details>
-<details> 
-<summary>📚 Open Source (Updating New Contents)</summary>
-
-  - [Link 1](https://pear-coelurus-712.notion.site/Open-Source-Gallery-719c3ef45c3b449d8a4dec2260b3cd71)
-</details>
  
 <details> 
 <summary>☕ Programmers Must Know</summary>
